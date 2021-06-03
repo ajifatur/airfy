@@ -1,0 +1,3 @@
+TO-DO:
+Dashboard Admin
+Stok berkurang setelah beli
